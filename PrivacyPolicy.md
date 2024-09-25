@@ -1,23 +1,18 @@
-# Adatvédelmi Irányelv
+# Privacy Policy
 
-## Bevezetés
+## Introduction
+This application does not collect any personal data from users. The protection of privacy and the security of user data are of utmost importance to us.
 
-Ez az alkalmazás nem gyűjt semmilyen személyes adatot a felhasználókról. Az adatvédelem és a felhasználói adatok biztonsága kiemelten fontos számunkra.
+## Data Collection and Usage
+The application does not collect, store, or share any personal data, including but not limited to: name, address, phone number, email address, location data.
 
-## Adatgyűjtés és Felhasználás
-
-Az alkalmazás nem gyűjt, tárol vagy oszt meg semmilyen személyes adatot, beleértve, de nem kizárólagosan a következőket: név, cím, telefonszám, e-mail cím, helyadatok.
-
-## Kapcsolat
-
-Ha bármilyen kérdése vagy aggálya van az adatvédelmi irányelveinkkel kapcsolatban, kérjük, lépjen kapcsolatba velünk az alábbi e-mail címen:
+## Contact
+If you have any questions or concerns regarding our privacy policy, please contact us at the following email address:
 
 mrrobot3x10@gmail.com
 
-## Módosítások
+## Modifications
+We reserve the right to modify this privacy policy at any time. Any changes to the policy will be posted on this page.
 
-Fenntartjuk a jogot, hogy bármikor módosítsuk ezt az adatvédelmi irányelvet. Az irányelv bármilyen változását ezen az oldalon tesszük közzé.
-
-## Hatálybalépés dátuma
-
-Ez az adatvédelmi irányelv 2024.09.13-ától érvényes.
+## Effective Date
+This privacy policy is effective as of 2024.09.25.
